@@ -1,0 +1,9 @@
+Bill'sBrakes 3 500
+PretendToWork 2 0
+NewEngine 8 1400
+FunnyNoise 5 300
+Cathy ready
+Inspection 1 50
+Howard ready
+Howard ready
+Cathy ready

@@ -1,0 +1,6 @@
+cow AVIRAL 1 1
+cow LOKESH 4 4
+cow SAHIL 8 4
+paintball BLUE 10 10 1
+paintball ORANGE 11 10 1
+paintball YELLOW 9 10 1

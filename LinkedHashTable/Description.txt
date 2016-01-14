@@ -1,0 +1,1 @@
+This program implements a linkedhashtable with manual hashing and all functions of a linkedhashtable inluding iterator

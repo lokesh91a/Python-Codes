@@ -1,0 +1,22 @@
+Description:
+This problem is a graph problem.
+
+test1:
+1.Contains mixture of floating and integer type of x and y coordinates and radius: Runs successfully
+2.Run the file with wrong file name: Executes successfully and displayes appropriate message
+3.Run this file with no data
+4.Run this file with only 1 cow or 1 paintball on it: Runs successfully
+
+test2:
+Checks the condition that if more than 1 paintball on triggering paints same no. of maximum colors on cows then only 1 of these should be 
+printed.
+All 3 paintballs orange, red and blue paints the cow notice2 with 3 colors but in the end only orange paintball is printed as a answer
+ 
+test3:
+1.Checks if no paintball paints any cows present then message should be displayed that no cows are painted by any starting paintball
+2.Also checks that if paintball1 triggers paintball2 and paintball2 triggers paintball1 then code should not throw error "maximum recursion
+ depth reached". In the given example all colors triggers all other colors but code runs successfully
+
+test4:
+Checks the 3rd condition i.e if on triggering 1 paintball paints only 1 cow but with 3 colors and on triggering other paintball 2 cows are painted but each with only 1 color then final result should be the paintball which was triggered first
+in this paintball(forUNIQUECOWS) paints 2 cows unique1 and unique2 but on triggering any other paintball, cow(notice) is painted by 3 colors: PURPLE, ORANGE and GREEN and output should be this

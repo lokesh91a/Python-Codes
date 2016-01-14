@@ -1,0 +1,11 @@
+paintball PURPLE 5.29 5 1.989
+cow Daisy 2.1 6
+
+cow Fauntleroy 9.8 2
+paintball BLACK 4 4 3
+paintball YELLOW 12 4.145 3
+cow Babe 8 4
+cow Milka 6.3 3
+paintball ORANGE 8.5 5 1
+
+

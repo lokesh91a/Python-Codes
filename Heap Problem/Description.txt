@@ -1,0 +1,2 @@
+This program implements the solutoin to following problem:
+Cathy and Harold work at a garage in which work comes faster than they can solve them. Cathy completes work based on the cost(high to low) and harold solves the work based on hours required to complete a job(min to max).Make a efficient data structure to keep track of jobs in the garage.
